@@ -1,2 +1,3 @@
 # KrainevAleksei
-about me
+
+![](KC_certificate.pdf)
