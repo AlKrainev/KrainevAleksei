@@ -1,11 +1,11 @@
-## О себе
+### О себе
 
-##  Контакты
+###  Контакты
 
 alexeykraynev@gmail.com  
 TG: @Kraynev_AV
 
-## Сертификаты
+### Сертификаты
 
 ![](KC_certificate.jpeg)
 
