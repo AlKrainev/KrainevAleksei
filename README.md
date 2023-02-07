@@ -1,3 +1,3 @@
 # KrainevAleksei
 
-![](KC_certificate.pdf)
+![](KC_certificate.jpeg)
