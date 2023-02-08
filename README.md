@@ -21,5 +21,5 @@ TG: @Kraynev_AV
 [Ссылка на сертификат](https://www.datacamp.com/statement-of-accomplishment/course/1ec63ec41762990b94509a1d98a2946774be4834)
 [Ссылка на сертификат](https://www.datacamp.com/statement-of-accomplishment/course/92dd57d7409c0cd2fa589ac232ebc96cb7c85e6f)
 
-<a href="https://www.datacamp.com/statement-of-accomplishment/course/1ec63ec41762990b94509a1d98a2946774be4834" target="_blank"><img src="statistical_thinking_python_1_certificate.jpeg" style="width:500px;"></a>
+<a href="https://www.datacamp.com/statement-of-accomplishment/course/1ec63ec41762990b94509a1d98a2946774be4834" target="_blank"><img src="statistical_thinking_python_1_certificate.jpeg" style="width:500px;" onclick="window.open('anotherpage.html', '_blank');"></a>
 
