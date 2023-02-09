@@ -97,6 +97,14 @@ TG: @Kraynev_AV
 
 #### PySpark
 
+<a href="https://www.datacamp.com/statement-of-accomplishment/course/3aae2c5cb4fd4009e315730416b0a19938edf303" target="_blank">
+<img src="Big_Data_Fundamentals_with_PySpark.jpeg" style="width:700px;">
+</a>
 
+<a href="https://www.datacamp.com/statement-of-accomplishment/course/24fe03cf4959a7660ff99cd649f01fa9bb37dad0" target="_blank">
+<img src="Cleaning_Data_with_PySpark.jpeg" style="width:700px;">
+</a>
 
-
+<a href="https://www.datacamp.com/statement-of-accomplishment/course/521bd95f036dcaa104675efef9272195872bae3f" target="_blank">
+<img src="Machine_Learning_with_PySpark.jpeg" style="width:700px;">
+</a>
