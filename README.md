@@ -57,3 +57,18 @@ TG: @Kraynev_AV
 
 #### Pandas
 
+<a href="https://www.datacamp.com/statement-of-accomplishment/course/22089c0630b6582670f115c354e28885eb66ffd4" target="_blank">
+<img src="Manipulating_DataFrames_with_pandas.jpeg" style="width:700px;">
+</a>
+
+<a href="https://www.datacamp.com/statement-of-accomplishment/course/cf142e4bf97b43271b7eba83f4bdb40054449624" target="_blank">
+<img src="Merging_DataFrames_with_pandas.jpeg" style="width:700px;">
+</a>
+
+<a href="https://www.datacamp.com/statement-of-accomplishment/course/6f39afe43c9000b4f31186f623e0fb1439172323" target="_blank">
+<img src="pandas_Foundations.jpeg" style="width:700px;">
+</a>
+
+<a href="https://www.datacamp.com/statement-of-accomplishment/course/d3d56e01970d0669d179ccc0dca84f125918b140" target="_blank">
+<img src="Cleaning_Data_in_Python.jpeg" style="width:700px;">
+</a>
