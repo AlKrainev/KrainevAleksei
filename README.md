@@ -72,3 +72,31 @@ TG: @Kraynev_AV
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/d3d56e01970d0669d179ccc0dca84f125918b140" target="_blank">
 <img src="Cleaning_Data_in_Python.jpeg" style="width:700px;">
 </a>
+
+#### Machine Learning
+
+<a href="https://www.datacamp.com/statement-of-accomplishment/course/c402251ddeea64a42f585dddb51bbc7fa69f1d78" target="_blank">
+<img src="Python_Data_Science_Toolbox_(Part_1).jpeg" style="width:700px;">
+</a>
+
+<a href="https://www.datacamp.com/statement-of-accomplishment/course/462d109d4058b06539d7e3989f56c4b8e8aa6cc5" target="_blank">
+<img src="Preprocessing_for_Machine_Learning_in_Python.jpeg" style="width:700px;">
+</a>
+
+<a href="https://www.datacamp.com/statement-of-accomplishment/course/e09b127afdac5fde119fa2d747df40cf9e212dc1" target="_blank">
+<img src="Machine_Learning_with_scikit-learn.jpeg" style="width:700px;">
+</a>
+
+<a href="https://www.datacamp.com/statement-of-accomplishment/course/3f22dbe67938a8a1c2915fddd33a03b64d890c79" target="_blank">
+<img src="Introduction_to_Linear_Modeling_in_Python.jpeg" style="width:700px;">
+</a>
+
+<a href="https://www.datacamp.com/statement-of-accomplishment/course/5ddfc65742ff7a001dae2cab750c0651ce75beea" target="_blank">
+<img src="Linear_Classifiers_in_Python.jpeg" style="width:700px;">
+</a>
+
+#### PySpark
+
+
+
+
